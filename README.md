@@ -1,2 +1,2 @@
 # cmc_ml_course
-Ml course homework
+Описание датасета https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
